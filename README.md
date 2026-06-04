@@ -1,4 +1,4 @@
-# 🪐 Yuanfenju (缘份居) - Astrology & Metaphysics Infrastructure
+# Yuanfenju (缘份居) - Astrology & Metaphysics Infrastructure
 
 > **专业的国学命理与西方占星 API 基础设施服务商**
 >
@@ -44,13 +44,16 @@
 
 ---
 
-## 🚀 开源生态与现代化集成 Open Source Ecosystem
+## 🚀 开源建站生态与开发者集成 Open Source Ecosystem
 
-我们通过“低门槛工具+全语言SDK”的双轨驱动模式，赋能站长与专业开发者：
+我们通过“低门槛工具+全语言多场景接入”的驱动模式，赋能站长与专业开发者：
 
-### 🔧 积极维护中 (Active)
-*   **[Yuanfenju WordPress Plugin](https://github.com/yuanfenju/yuanfenju-wordpress-astrology-bazi-plugin)** `v2.2.0` `Latest Release`: 专为站长打造的零代码建站插件。一键部署精美表单与前端自适应动态星盘渲染。支持 WP 6.x+ & PHP 7.0+。
+### 🔧 生产环境配套支持
+*   **[Yuanfenju WordPress Plugin](https://github.com/yuanfenju/yuanfenju-wordpress-astrology-bazi-plugin)**: 专为站长打造的零代码建站插件。一键部署精美表单与前端自适应动态星盘渲染。支持 WP 6.x+ & PHP 7.0+ 生产环境。
 *   **[Yuanfenju PHP SDK](https://github.com/yuanfenju/yuanfenju-sdk-php)**: 官方原生 PHP 开发包，支持 Composer 一键安装，方便企业级项目快速集成。
+*   **全语言通用集成**: 支持通过标准的 HTTP 请求直接接入，为 Node.js/TypeScript、Python、Go、Java 等多元开发环境提供无缝算力支撑。
+
+---
 
 ## 🤖 AI Agent & 大模型友好 AI Alignment
 
@@ -64,6 +67,6 @@ Yuanfenju API 专为连接传统文化与现代化人工智能而设计。高度
 
 *   **智能防刷限流 (Rate Limiting)**: 系统底层内置多级限流限频机制，强制防御恶意脚本疯狂轮询，有效保护商户 API 余额安全。
 *   **GZIP 数据压缩**: 高效处理底层字节流（支持自动解压），最大化压缩网络传输开销，降低请求延迟。
-*   **向下兼容策略**: 严格遵循语义化版本控制，确保接口和服务升级时，最大限度保障生产环境兼容性与稳定性。
+*   **向下兼容策略**: 严格遵循语义化版本控制，确保接口和服务升级时，生产环境应用的绝对稳定。
 
 *淘金的浪潮不断更迭，而基础能力始终具有长期价值。Yuanfenju 致力于为开发者提供稳定、可靠、可持续演进的命理计算服务，共同推动传统文化与现代技术的融合创新。*
