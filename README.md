@@ -31,11 +31,22 @@
 ### ⚪ 西方占星系统 APIs (Western Astrology)
 *   **✓ Natal Chart** (本命盘基础与行星落座/落宫解析)
 *   **✓ Synastry Chart** (双人互动比较盘)
-*   **✓ Composite Chart** (双人组合时空盘)
+*   **✓ Composite Chart** (双人组合盘)
 *   **✓ Transit Chart** (动态行运盘)
 *   **✓ Progression Chart** (次限推进盘)
 *   **✓ Solar Arc Direction** (太阳弧推进盘)
 *   **✓ Solar Return / Lunar Return** (年度日返照盘 / 月度月返照盘)
+*   **✓ Transit Sky Chart** (天象盘)
+*   **✓ Davison Chart** (时空盘)
+*   **✓ Marks Chart** (马克思盘)
+*   **✓ Firdaria Chart** (法达盘)
+*   **✓ Tertiary Progression Chart** (三限盘)
+*   **✓ Davison Tertiary Progression Chart** (时空三限盘)
+*   **✓ Synastry Tertiary Progression Chart** (马盘三限盘)
+*   **✓ Composite Tertiary Progression Chart** (组合三限盘)
+*   **✓ Davison Secondary Progression Chart** (时空次限盘)
+*   **✓ Synastry Secondary Progression Chart** (马盘次限盘)
+*   **✓ Composite Secondary Progression Chart** (组合次限盘)
 
 ### 🟣 轻量娱乐与泛心理工具
 *   **塔罗系统 (Tarot)**: 涵盖 占卜主题 与 牌阵选择，支持 17+ 种经典牌阵（圣三角、凯尔特十字等）的结构化文本解读。
